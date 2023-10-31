@@ -1,0 +1,305 @@
+body{
+    /*background-color: azure;*/
+    background-image: url(https://kartinki.pics/pics/uploads/posts/2022-08/1661504780_1-kartinkin-net-p-bordovie-oboi-na-rabochii-stol-krasivo-2.png);
+    background-repeat: no-repeat;
+    background-size: 120%;
+    padding: 0;
+    margin: 0;
+}
+
+.block{
+    border: 0.5px gray solid;
+    width: 200px;
+    height: 400px;
+    margin-left: 50px;
+    margin-top: 50px;
+    background-color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.block:hover p{
+    opacity: 0;
+}
+
+.block:hover{
+    background-color: bisque;
+}
+
+.block:hover::before {
+    content: "Hennessy VSOP Privilège ist ein Cognac, welcher für mindestens 4 Jahre in Limousin Eichenholzfässern zubringen durfte. Preislich nivelliert sich der Hennessy VSOP (Very Superior Old Pale, das 'S' kann auch 'Special' heißen) bei etwa 38 oder 45 $.";
+    opacity: 1;
+    line-height: 30px;
+
+    
+}
+.block:hover img{
+    opacity: 0;
+}
+
+
+
+.price{
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.block1{
+    border: 0.5px gray solid;
+    width: 200px;
+    height: 400px;
+    margin-left: 300px;
+    margin-top: -401px;
+    background-color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.block1:hover p{
+    opacity: 0;
+}
+
+.block1:hover{
+    background-color: bisque;
+}
+
+.block1:hover::before {
+    content: "Der Hennessy Cognac VS (Very Special) steht für mehrere Jahrhunderte, in denen Cognac hergestellt wurde. Als zeitloser Tropfen blieb er seiner Herkunft treu, blickt dabei aber auch in die Zukunft. Für den VS wurden 40 unterschiedliche Eaux-de-vie aus allen Cognac Regionen miteinander verschnitten. Ihr Mindestalter liegt bei zwei Jahren, einige sind bis zu fünf Jahre alt.";
+    opacity: 1;
+    line-height: 30px;
+    font-size: 15px;
+
+    
+}
+.block1:hover img{
+    opacity: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.block2{
+    border: 0.5px gray solid;
+    width: 200px;
+    height: 400px;
+    margin-left: 550px;
+    margin-top: -401px;
+    background-color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.block2:hover p{
+    opacity: 0;
+}
+
+.block2:hover{
+    background-color: bisque;
+}
+
+.block2:hover::before {
+    content: "Mit dem Hennessy XO Extra Old Cognac begibt man sich auf eine epische Reise durch die sinnliche Aromenwelt. Tatsächlich gehen die Ursprünge der Kategorie 'Extra Old' auf das Haus Hennessy zurück. Die von Hennessy kreierten Eaux-de-vie sind zwischen 10 und 70 Jahren alt. Allein in diesem kostbaren XO sind über hundert von ihnen enthalten. Ihr durchschnittliches Alter beläuft sich auf 45 Jahre. Somit wird hier eine außerordentliche Selektion präsentiert, deren Aromen noch Jahre später in Erinnerung bleiben.";
+    opacity: 1;
+    line-height: 20px;
+    font-size: 15px;
+
+    
+}
+.block2:hover img{
+    opacity: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.block3{
+    border: 0.5px gray solid;
+    width: 200px;
+    height: 400px;
+    margin-left: 800px;
+    margin-top: -401px;
+    background-color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.block3:hover p{
+    opacity: 0;
+}
+
+.block3:hover{
+    background-color: bisque;
+}
+
+.block3:hover::before {
+    content: "Hennessy Paradis wurde im Jahr 1979 von Maurice Fillioux kreiert. Dieser harmonische Cognac verführt mit sanften, eleganten Geschmacksprofilen und einer ergiebigen Kupferfarbe. Als perfekt ausgewogene Assemblage vereint er vollmundige Nuancen mit abgerundeten Aromen, die im satten Finale ausklingen. Das Jahr 2023 geht als Jahr des Hasen in die Geschichte ein. Zu diesem Anlass arbeitete Hennessy mit dem bekannten Künstler Yan Pei-Ming zusammen. Er wurde in Shanghai geboren und lebt seit 1980 in Frankreich. Yans Kollektion erinnert an die Vielfalt der chinesischen Tierkreiszeichen.";
+    opacity: 1;
+    line-height: 20px;
+    font-size: 14px;
+
+    
+}
+
+.block3:hover img{
+    opacity: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+.block4{
+    border: 0.5px gray solid;
+    width: 200px;
+    height: 400px;
+    margin-left: 1050px;
+    margin-top: -401px;
+    background-color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.block4:hover p{
+    opacity: 0;
+}
+
+.block4:hover{
+    background-color: bisque;
+}
+
+.block4:hover::before {
+    content: "Der Hennessy X.X.O. Hors d'Age ist eine moderne Neuinterpretation des Hennessy X.O. und ein absolutes Muss für jeden Cognac Liebhaber. Da er reifer als der Hennessy XO ist, trägt er den Titel Hors d'Age. Hennessy, das größte Cognac Haus der Welt, ist in seine riesigen Keller eingetaucht, um einen Cognac der neuesten Altersbezeichnung, den XXO, zu verschneiden.";
+    opacity: 1;
+    line-height: 20px;
+    font-size: 15px;
+    
+}
+.block4:hover img{
+    opacity: 0;
+}
+
+
+
+
+
+
+
+.heart:hover::before{
+    content: url("https://rnr-wiki.ru/images/a/ae/Сердечко.png");
+    
+}
+
+
+
+.heart{
+    margin-bottom: -50px;
+    margin-right: -40px;
+}
+
+.heart:hover{
+    content: url("https://rnr-wiki.ru/images/a/ae/Сердечко.png");
+}
+
+
+.hrt{
+    width: 200px;
+    height: 70px;
+    margin-top: -70px;
+}
+
+.hrt img{
+    position: relative;
+    right: -453px;
+}
+
+
+.hrt1{
+    width: 200px;
+    height: 70px;
+    margin-top: -70px;
+}
+
+.hrt1 img{
+    position: relative;
+    right: -200px;
+}
+
+
+.hrt2{
+    width: 200px;
+    height: 70px;
+    margin-top: -70px;
+}
+
+.hrt2 img{
+    position: relative;
+    right: -700px;
+}
+
+
+
+
+.hrt3{
+    width: 200px;
+    height: 70px;
+    margin-top: -70px;
+}
+
+.hrt3 img{
+    position: relative;
+    right: -953px;
+}
+
+
+
+
+.hrt4{
+    width: 200px;
+    height: 70px;
+    margin-top: -70px;
+}
+
+.hrt4 img{
+    position: relative;
+    right: -1200px;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: black;
+}

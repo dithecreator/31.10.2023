@@ -1,0 +1,71 @@
+.block{
+    position: relative;
+    left: 100px;
+    width: 400px;
+    height: 400px;
+    border: 2px black solid;
+    text-align: center;
+    background-color: white;
+}
+
+.block:hover{
+    box-shadow: -12px -3px 105px -15px rgba(234, 210, 133, 0.91);
+}
+
+.maintext{
+    position: relative;
+    text-align: left;
+    margin-left: 550px;
+    margin-top: -400px;
+    color: white;
+}
+
+.maintext:hover{
+    text-shadow: 0 1px 0px #378ab4, 1px 0 0px #5dabcd, 1px 2px 1px #378ab4, 2px 1px 1px #5dabcd, 2px 3px 2px #378ab4, 3px 2px 2px #5dabcd, 3px 4px 2px #378ab4, 4px 3px 3px #5dabcd, 4px 5px 3px #378ab4, 5px 4px 2px #5dabcd, 5px 6px 2px #378ab4, 6px 5px 2px #5dabcd, 6px 7px 1px #378ab4, 7px 6px 1px #5dabcd, 7px 8px 0px #378ab4, 8px 7px 0px #5dabcd;
+  
+    
+}
+
+
+span{
+    color:  red;
+    font-size: 20px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://kartinki.pics/pics/uploads/posts/2022-08/1661504780_1-kartinkin-net-p-bordovie-oboi-na-rabochii-stol-krasivo-2.png);
+    background-repeat: no-repeat;
+    background-size: 120%;
+}
+
+.buy{
+    position: relative;
+    font-size: 20px;
+    background-image: url("https://media.tenor.com/gDeFPgsz0usAAAAC/огонь.gif");
+    right: -750px;
+    top: -32px;
+}
+
+
+
+.credit{
+    position: relative;
+    font-size: 20px;
+    background-image: url("https://i.gifer.com/origin/c2/c213bfc8500ff66eb496e1ea7d533a9c_w200.gif");
+    right: -770px;
+    top: -32px;
+}
+
+
+.buy:hover{
+    background-color: brown;
+}
+
+
+.sale{
+    position: relative;
+    left: 90px;
+}
+
